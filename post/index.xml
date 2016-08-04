@@ -8,8 +8,41 @@
     <language>en-us</language>
     <managingEditor>sivaprasadreddy.k@gmail.com (Siva)</managingEditor>
     <webMaster>sivaprasadreddy.k@gmail.com (Siva)</webMaster>
-    <lastBuildDate>Fri, 29 Jul 2016 08:45:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2016 08:45:00 +0530</lastBuildDate>
     <atom:link href="https://sivaprasadreddy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Debugging Weird Technical Issues using Siva&#39;s 3-Step Debugging Law</title>
+      <link>https://sivaprasadreddy.github.io/2016/08/debugging-weird-technical-issues-using-sivas-3-step-debugging-law</link>
+      <pubDate>Wed, 03 Aug 2016 08:45:00 +0530</pubDate>
+      <author>sivaprasadreddy.k@gmail.com (Siva)</author>
+      <guid>https://sivaprasadreddy.github.io/2016/08/debugging-weird-technical-issues-using-sivas-3-step-debugging-law</guid>
+      <description>
+
+&lt;p&gt;At times we stuck with some weird problem which doesn&amp;rsquo;t make any sense and gives no clue where to start debugging the issue also.&lt;/p&gt;
+
+&lt;p&gt;If you find yourself in that situation, follow the following 3 steps.&lt;/p&gt;
+
+&lt;h3 id=&#34;step-1-lock-the-system-and-go-out-for-a-quick-walk&#34;&gt;Step 1: Lock the system and go out for a quick walk.&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Why this works:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When you are visually looking at the code and mentally decided it is correct then your brain can&amp;rsquo;t think out-of-the-box.
+When you are not looking at code your brain starts thinking what can be the possible reason that is causing issue.&lt;/p&gt;
+
+&lt;h3 id=&#34;step-2-explain-the-issue-to-someone-who-works-in-the-same-field-but-not-familar-with-the-language-framework-you-are-having-issue-with&#34;&gt;Step 2: Explain the issue to someone who works in the same field but not familar with the language/framework you are having issue with.&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Why this works:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When you try to explain the problem to someone who is not faimilar with the language/framework then generally you start explaining the fundamentals of &amp;ldquo;How the framework works&amp;rdquo; to give a context of the problem. Most likely you get a clue on what is causing the issue while explaining the problem itself.&lt;/p&gt;
+
+&lt;h3 id=&#34;step-3-look-at-the-balance-amount-you-have-to-pay-for-your-houseloan&#34;&gt;Step 3: Look at the balance amount you have to pay for your HouseLoan&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Why this works:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;No logic is required. It just works!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to my new personal blog</title>
